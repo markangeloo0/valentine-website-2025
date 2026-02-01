@@ -14,21 +14,21 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '❤️‍🔥', '💝', '💗', '🤍'],  // Heart emojis
-        bears: ['🧸', '🐻','☄️','💫']                       // Cute bear emojis
+        hearts: ['❤️', '✨', '💝', '💗', '🤍'],  // Heart emojis
+        bears: ['🧸', '🐻','☄️','💫','🌟']                       // Cute bear emojis
     },
 
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Like mo naman ak?",                                    // First interaction
+            text: "Gusto mo naman ak? Sure ka na?",                                    // First interaction
             yesBtn: "Ou",                                             // Text for "Yes" button
             noBtn: "Nde",                                               // Text for "No" button
             secretAnswer: "Balew, labyu"           // Secret hover message
         },
         second: {
-            text: "Gaano ka-love?",                          // For the love meter
+            text: "Gaano mo 'ko ka-love?",                          // For the love meter
             startText: "Thiiiis much!",                                   // Text before the percentage
             nextBtn: "Next!"                                         // Text for the next button
         },
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Hooray! 😁 May this be the first out of many Valentine's na i-cecelebrate natin hehehe",
         message: "See you soon, dear ko. Know that I love you always.",
-        emojis: "🌸🎁💖💫😽❤️✨"  // These will bounce around
+        emojis: "🌤️🌸🌟🎁💖💫😽❤️✨"  // These will bounce around
     },
 
     // Color scheme for the website
